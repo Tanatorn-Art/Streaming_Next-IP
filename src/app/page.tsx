@@ -73,6 +73,7 @@ const Home: React.FC = () => {
         <h3 style={{ color: 'white', textAlign: 'center' }}>Camera 4</h3>
         <canvas id="camera4" style={{ width: '100%', height: '100%' }}></canvas>
       </div>
+
     </div>
   );
 };
